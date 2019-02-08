@@ -1,0 +1,25 @@
+{
+  "name": "API-NODEJS---CRUD",
+  "version": "1.0.0",
+  "description": "- Api creada en NODEJS, la cual realiza CRUD, entregando como resultado JSON a apicación cliente\r - Metodo GET, POST, PUT, DELETE\r - Se utiliza la guía dada en el siguiente tutorial: https://youtu.be/QNBozn-zPhs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marc0duarte/API-NODEJS---CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marc0duarte/API-NODEJS---CRUD/issues"
+  },
+  "homepage": "https://github.com/marc0duarte/API-NODEJS---CRUD#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
+}
